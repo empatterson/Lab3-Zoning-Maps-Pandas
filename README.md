@@ -4,7 +4,6 @@ As an avid Excel user, I enjoyed learning about how to use pandas to combine .cs
 ## Carto
 This was my first experience using Carto. I thought it was very user friendly and didn’t require a lot of research in order to figure out how to modify the final product. I also liked that the output is user friendly and similar to a common mapping systems like Google Maps for those who are not used to looking at cartography. I wanted my final map to have pop up labels of the type of zone and the number of affordable housing units for the building (“total_affordable_units”) but most of the records were null for this variable. I am not sure if that was an error within the dataset or if that was something that I did wrong. In the affordable housing.csv file that was previewed using “aff.info” it shows that there are 558 non-null values. I don't know if I will use Carto in the future (without a free license) since the price seems high (199 per month) but I think the subscription within Github is great to explore its capabilities more. 
 
-<iframe width="100%" height="520" frameborder="0" src="https://empatterson.carto.com/builder/590fa835-bc3b-4159-bb58-4c84fa885b96/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### Carto Link
 https://empatterson.carto.com/builder/590fa835-bc3b-4159-bb58-4c84fa885b96/embed
